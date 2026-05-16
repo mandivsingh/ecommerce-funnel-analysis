@@ -62,7 +62,6 @@ Clear inverse relationship: higher price → more comparison browsing → lower 
 
 ## Project Structure
 - ECommerce_Data.ipynb    # Main notebook
-- events.csv.zip   # Dataset
 - README.md
 
 ## Key Recommendations
