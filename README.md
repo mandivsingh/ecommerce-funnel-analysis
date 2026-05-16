@@ -8,7 +8,7 @@ End-to-end product analytics on a real e-commerce dataset — mapping the full c
 
 **Dataset:** E-Commerce Events Data · 885K events · 407K users · Sep 2020 – Feb 2021
 The dataset used is publicly available on Kaggle:
-[E-Commerce Events History]([https://www.kaggle.com/datasets/mkechinov/ecommerce-events-history-in-cosmetics-shop](https://www.kaggle.com/datasets/mkechinov/ecommerce-events-history-in-electronics-store))
+[E-Commerce Events History]([https://www.kaggle.com/datasets/mkechinov/ecommerce-events-history-in-cosmetics-shop](https://www.kaggle.com/datasets/mkechinov/ecommerce-events-history-in-electronics-store)])
 
 Download and place in the same directory as the notebook before running.
 
