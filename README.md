@@ -7,6 +7,10 @@
 End-to-end product analytics on a real e-commerce dataset — mapping the full conversion funnel, identifying where users drop off, and quantifying the revenue opportunity from fixing it.
 
 **Dataset:** E-Commerce Events Data · 885K events · 407K users · Sep 2020 – Feb 2021
+The dataset used is publicly available on Kaggle:
+[E-Commerce Events History](https://www.kaggle.com/datasets/mkechinov/ecommerce-events-history-in-cosmetics-shop)
+
+Download and place in the same directory as the notebook before running.
 
 ## Key Results
 
