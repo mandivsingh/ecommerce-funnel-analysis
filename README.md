@@ -11,7 +11,6 @@ End-to-end product analytics on a real e-commerce dataset — mapping the full c
 Publicly available on Kaggle:
 [E-Commerce Events History in Electronics Store](https://www.kaggle.com/datasets/mkechinov/ecommerce-events-history-in-electronics-store)
 
-Download and place in the same directory as the notebook before running.
 
 ## Key Results
 
