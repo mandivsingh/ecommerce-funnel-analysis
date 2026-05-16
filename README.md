@@ -57,9 +57,9 @@ Clear inverse relationship: higher price → more comparison browsing → lower 
 - Category, brand, and temporal segmentation analysis
 
 ## Project Structure
-├── ECommerce_Data.ipynb    # Main notebook
-├── events.csv   # Dataset
-└── README.md
+- ECommerce_Data.ipynb    # Main notebook
+- events.csv.zip   # Dataset
+- README.md
 
 ## Key Recommendations
 
